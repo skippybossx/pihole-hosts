@@ -183,3 +183,5 @@ www.google.co.zw
 www.google.cat
 www.google.kg
 youtube.googleapis.com
+www.google.tk
+www.google.com.nf
