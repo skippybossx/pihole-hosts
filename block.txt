@@ -182,4 +182,4 @@ www.google.co.zm
 www.google.co.zw
 www.google.cat
 www.google.kg
-https://youtube.googleapis.com/
+youtube.googleapis.com
