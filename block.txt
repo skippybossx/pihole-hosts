@@ -185,3 +185,12 @@ www.google.kg
 youtube.googleapis.com
 www.google.tk
 www.google.com.nf
+youtubei.googleapis.com
+googleapis.l.google.com
+clients.l.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients6.google.com
+apis.google.com
