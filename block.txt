@@ -195,3 +195,5 @@ clients4.google.com
 clients6.google.com
 apis.google.com
 web.diagnostic.networking.aws.dev
+googleadservices.com
+www.googleadservices.com
